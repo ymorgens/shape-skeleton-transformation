@@ -26,5 +26,5 @@ This demo relies on the shape skeleton implementation by Feldman and Singh (2006
 
 (2) **Feldman, J., & Singh, M. (2006). Bayesian estimation of the shape skeleton. Proceedings of the National Academy of Sciences, 103(47), 18014-18019.**
 
-For questions, please contact Yaniv Morgenstern([Yaniv.Morgenstern@psychol.uni-giessen.de](mailto:Yaniv.Morgenstern@psychol.uni-giessen.de)).
+For questions, please contact Yaniv Morgenstern ([Yaniv.Morgenstern@psychol.uni-giessen.de](mailto:Yaniv.Morgenstern@psychol.uni-giessen.de)).
 
