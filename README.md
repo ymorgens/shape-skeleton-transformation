@@ -10,8 +10,7 @@ MATLAB
 
 ## **Example**
 
-As an example (See **demo_transformBaseShapeRandom.m**), the novel object and the subparts of its skeleton representation (_right_) are transformed (_left_) to produce a new variant.  The smoothed versions (_lower left_) may be preferred to remove discontinuities that arise due to the transformation.
-
+As an example (See **demo_transformBaseShapeRandom.m**), the novel object and the subparts of its skeleton representation (_right_) are transformed (_left_) to produce a new variant.  Blurring the shape (_lower left_) can remove discontinuities that arise due to the transformation.
 
 <p align="center">
   <img width="460" src="https://github.com/ymorgens/shape-skeleton-transformation/blob/master/skeleton_transformation/demoexample.png">
