@@ -41,7 +41,7 @@ function [skeleton,optimal_skeleton_pars,axis_hierarchy,final_description_length
 % For additional documentation, see README.txt.
 %
 %------------------------------------------------------------------------------------------:
-addpath('Functions');      % All required functions are located in this folder, except those available at the command line. 
+%addpath('Functions');      % All required functions are located in this folder, except those available at the command line. 
 % Set defaults:
 graphics = false;           % If true, draws shape and skeleton while done.
 show_progressive_computation = false; % If true, shows the pruning and gradient descent process graphically. 
