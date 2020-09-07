@@ -65,7 +65,7 @@ global usegradientdescent;
 global optimization_scale_factor; % Controls step size in optimization proess
 global current_augmented_skeleton; % Separate current skeleton, so we can keep the regular one "clean"
 
-addpath('Functions');
+%addpath('Functions');
 set_skeleton_constants;  % sets globals 
 %require_twosided_explanation = false;
 rand('state',sum(100*clock));   % initialize the random number generator
