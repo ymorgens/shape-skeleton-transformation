@@ -25,13 +25,13 @@ The code may be useful in producing novel object classes for psychophyisical exp
 ***
 If you use this code, please cite the following:
 
-(1) **Morgenstern, Y., Schmidt, F., & Fleming, R. W. (2019). One-shot categorization of novel object classes in humans. Vision Research, 165, 98-108.**
+(1) **Morgenstern, Y., Schmidt, F., & Fleming, R. W. (2019). [One-shot categorization of novel object classes in humans](https://www.sciencedirect.com/science/article/abs/pii/S0042698919301749). Vision Research, 165, 98-108.**
 
-(2) **Morgenstern, Y., Schmidt, F., & Fleming, R. W. (2020). A dataset for evaluating one-shot categorization of novel object classes. Data in brief, 29, 105302.**
+(2) **Morgenstern, Y., Schmidt, F., & Fleming, R. W. (2020). [A dataset for evaluating one-shot categorization of novel object classes](https://www.sciencedirect.com/science/article/pii/S2352340920301967). Data in brief, 29, 105302.**[data](https://zenodo.org/record/3433278#.X1ZEgdMzaJQ)
 
 This demo relies on the shape skeleton implementation by Feldman and Singh (2006).  The ShapeToolbox implementation  was downloaded at http://ruccs.rutgers.edu/images/ShapeToolbox1.0.zip
 
-(3) **Feldman, J., & Singh, M. (2006). Bayesian estimation of the shape skeleton. Proceedings of the National Academy of Sciences, 103(47), 18014-18019.**
+(3) **Feldman, J., & Singh, M. (2006). [Bayesian estimation of the shape skeleton. Proceedings of the National Academy of Sciences](https://www.pnas.org/content/pnas/103/47/18014.full.pdf), 103(47), 18014-18019.**
 
 For questions, please contact Yaniv Morgenstern ([Yaniv.Morgenstern@psychol.uni-giessen.de](mailto:Yaniv.Morgenstern@psychol.uni-giessen.de)).
 
