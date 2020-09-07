@@ -16,6 +16,11 @@ As an example (See **demo_transformBaseShapeRandom.m**), the novel object and th
   <img width="460" src="https://github.com/ymorgens/shape-skeleton-transformation/blob/master/skeleton_transformation/demoexample.png">
 </p>
 
+The code may be useful in producing novel object classes for psychophyisical experiments.  For example, one can create different classes of objects by manipulating the distribution that the skeletal parameters are drawn from (see **demo_ShapeEnvs.m**)
+<p align="center">
+  <img width="460" src="https://github.com/ymorgens/shape-skeleton-transformation/blob/master/skeleton_transformation/demo_ShapeEnvs1.png">
+</p>
+
 ## **Reference**
 ***
 If you use this code, please cite the following:
