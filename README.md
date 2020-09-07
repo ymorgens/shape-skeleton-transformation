@@ -27,7 +27,7 @@ If you use this code, please cite the following:
 
 (1) **Morgenstern, Y., Schmidt, F., & Fleming, R. W. (2019). [One-shot categorization of novel object classes in humans](https://www.sciencedirect.com/science/article/abs/pii/S0042698919301749). Vision Research, 165, 98-108.**
 
-(2) **Morgenstern, Y., Schmidt, F., & Fleming, R. W. (2020). [A dataset for evaluating one-shot categorization of novel object classes](https://www.sciencedirect.com/science/article/pii/S2352340920301967). Data in brief, 29, 105302.**[data](https://zenodo.org/record/3433278#.X1ZEgdMzaJQ)
+(2) **Morgenstern, Y., Schmidt, F., & Fleming, R. W. (2020). [A dataset for evaluating one-shot categorization of novel object classes](https://www.sciencedirect.com/science/article/pii/S2352340920301967). Data in brief, 29, 105302.** [[Data]](https://zenodo.org/record/3433278#.X1ZEgdMzaJQ)
 
 This demo relies on the shape skeleton implementation by Feldman and Singh (2006).  The ShapeToolbox implementation  was downloaded at http://ruccs.rutgers.edu/images/ShapeToolbox1.0.zip
 
