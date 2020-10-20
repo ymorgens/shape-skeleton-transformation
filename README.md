@@ -3,11 +3,13 @@
 
 The following code shows how to create shape variants by manipulating a shape's skeletal representation.  The skeletal representation decomposes the shape into parts.  Here we vary the relationship of the lengths, orientations, widths, and positions of all these parts to create new shape variants.  
 
+<p align="center">
+  <img width="800" src="https://github.com/ymorgens/shape-skeleton-transformation/blob/master/skeleton_transformation/readme image.png">
+</p>
+
 Such new variants may be useful in producing stimuli for a variety of psychophysical tasks.  As an example, the code can be used to create classes of objects with similar/dissimilar statistics (e.g., by choosing the distribution of parameters of how these parts are sampled).
 
-<p align="center">
-  <img width="600" src="https://github.com/ymorgens/shape-skeleton-transformation/blob/master/skeleton_transformation/readme image.png">
-</p>
+
 
 ## **Requirements**
 MATLAB
