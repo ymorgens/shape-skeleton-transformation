@@ -5,6 +5,10 @@ The following code shows how to create shape variants by manipulating a shape's 
 
 Such new variants may be useful in producing stimuli for a variety of psychophysical tasks.  As an example, the code can be used to create classes of objects with similar/dissimilar statistics (e.g., by choosing the distribution of parameters of how these parts are sampled).
 
+<p align="center">
+  <img width="460" src="https://github.com/ymorgens/shape-skeleton-transformation/blob/master/skeleton_transformation/readme image.png">
+</p>
+
 ## **Requirements**
 MATLAB
 
@@ -32,6 +36,8 @@ If you use this code, please cite the following:
 This demo relies on the shape skeleton implementation by Feldman and Singh (2006).  The ShapeToolbox implementation  was downloaded at http://ruccs.rutgers.edu/images/ShapeToolbox1.0.zip
 
 (3) **Feldman, J., & Singh, M. (2006). [Bayesian estimation of the shape skeleton. Proceedings of the National Academy of Sciences](https://www.pnas.org/content/pnas/103/47/18014.full.pdf), 103(47), 18014-18019.**
+
+For related work, please visit the sites of [Roland Fleming](http://fleming.oerloeg.com/),[Filipp Schmidt](http://www.allpsych.uni-giessen.de/filipp/), and [Yaniv Morgenstern](https://sites.google.com/view/yanivmorgenstern) 
 
 For questions, please contact Yaniv Morgenstern ([Yaniv.Morgenstern@psychol.uni-giessen.de](mailto:Yaniv.Morgenstern@psychol.uni-giessen.de)).
 
