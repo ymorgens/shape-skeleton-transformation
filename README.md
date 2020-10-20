@@ -6,7 +6,7 @@ The following code shows how to create shape variants by manipulating a shape's 
 Such new variants may be useful in producing stimuli for a variety of psychophysical tasks.  As an example, the code can be used to create classes of objects with similar/dissimilar statistics (e.g., by choosing the distribution of parameters of how these parts are sampled).
 
 <p align="center">
-  <img width="460" src="https://github.com/ymorgens/shape-skeleton-transformation/blob/master/skeleton_transformation/readme image.png">
+  <img width="600" src="https://github.com/ymorgens/shape-skeleton-transformation/blob/master/skeleton_transformation/readme image.png">
 </p>
 
 ## **Requirements**
