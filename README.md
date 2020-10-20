@@ -41,7 +41,7 @@ This demo relies on the shape skeleton implementation by Feldman and Singh (2006
 
 ## **Related work**
 ***
-For related work, please visit the sites of [Roland Fleming](http://fleming.oerloeg.com/), [Filipp Schmidt](http://www.allpsych.uni-giessen.de/filipp/), and [Yaniv Morgenstern](https://sites.google.com/view/yanivmorgenstern) 
+For related work, please visit the sites of [Roland Fleming](http://fleming.oerloeg.com/), [Filipp Schmidt](http://www.allpsych.uni-giessen.de/filipp/), and/or [Yaniv Morgenstern](https://sites.google.com/view/yanivmorgenstern) 
 
 
 ## **Questions**
